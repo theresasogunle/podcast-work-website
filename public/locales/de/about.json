@@ -1,0 +1,167 @@
+{
+  "seo": {
+    "title": "ANNE FRANK DER PODCAST | About",
+    "description": "Junge Menschen wissen immer weniger über die Verbrechen der Nazis. Der Podcast der Anne Frank soll das ändern: Ein Projekt zur politischen Bildung."
+  },
+  "title": "Das Projekt wurde vom Anne Frank Fonds genehmigt und unterstützt.",
+  "quotes": [
+    {
+      "quote": "»The memory of the Holocaust is starting to fade.«",
+      "logo": {
+        "src": "/images/logos/cnn.png",
+        "alt": "CNN"
+      },
+      "date": "2. Mai 2019",
+      "url": "https://edition.cnn.com/interactive/2018/11/europe/antisemitism-poll-2018-intl/"
+    },
+    {
+      "quote": "»Vier von zehn Schülern wissen nicht, wofür Auschwitz steht.«",
+      "logo": {
+        "src": "/images/logos/der-spiegel.png",
+        "alt": "Der Spiegel"
+      },
+      "date": "28. September 2017",
+      "url": "https://www.spiegel.de/lebenundlernen/schule/auschwitz-vier-von-zehn-schuelern-wissen-nicht-wofuer-es-steht-a-1170423.html"
+    },
+    {
+      "quote": "»Holocaust Is Fading From Memory, Survey Finds«",
+      "logo": {
+        "src": "/images/logos/nyt.png",
+        "alt": "New York Times"
+      },
+      "date": "12. April 2018",
+      "url": "https://www.nytimes.com/2018/04/12/us/holocaust-education.html"
+    },
+    {
+      "quote": "»Wie viele Jüdinnen und Juden wurden im Holocaust ermordet?«",
+      "logo": {
+        "src": "/images/logos/derstandard.png",
+        "alt": "Der Standard"
+      },
+      "date": "15. April 2021",
+      "url": "https://www.derstandard.at/consent/tcf/story/2000125845061/geschichtsunterricht-hitler-und-die-grosse-leere"
+    }
+  ],
+  "content": {
+    "title": "Der Podcast der Anne Frank",
+    "text": "<p>Die Erinnerung an die Verbrechen des Nazi-Regimes beginnen mittlerweile zu verblassen. Junge Menschen wissen immer weniger über den Holocaust. Als Kommunikator:innen sehen wir es als unsere Aufgabe, einen zeitgemäßen Beitrag zur Erinnerungskultur zu leisten. Mit digitalen Medien wollen wir junge Menschen an die Verantwortung, die aus unserer gemeinsamen Geschichte resultiert, heranführen. Der Podcast der Anne Frank soll das möglich machen. Eine Kampagne gegen das Vergessen.Das Projekt soll einen einfachen Überblick über die letzten Jahre des Krieges geben. Der Podcast entstand während der Corona-Pandemie. Um die Gesundheit der Mitwirkenden zu gewährleisten wurden viele Aufnahmen zuhause aufgenommen..</p><p><a href='/files/Der_Podcast_der_Anne_Frank_Presse.zip' download>Download Pressemappe</a</p>",
+    "about": "<p>Ein Projekt von buero butter mit der Unterstützung von Ina Lins, wild, Studio Wunderbar, Anne Hofmann, Valerie Besl, Anna Schwarzlmüller, Constant Evolution und vielen anderen.</p>",
+    "image": {
+      "src": "/images/anne.jpg",
+      "atl": "Anne Frank"
+    }
+  },
+  "partners": {
+    "title": "Unterstützer:innen",
+    "items": [
+      {
+        "logo": {
+          "src": "/images/logos/anne-frank-fonds.png",
+          "alt": "Anne Frank Fonds"
+        },
+        "url": "https://www.annefrank.ch/de"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/buero-butter.png",
+          "alt": "Buero Butter"
+        },
+        "url": "https://buerobutter.com/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/constant-evolution.png",
+          "alt": "Constant Evolution"
+        },
+        "url": "https://www.con-evo.com/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/falter.png",
+          "alt": "Falter"
+        },
+        "url": "https://www.falter.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/fm4.png",
+          "alt": "FM4"
+        },
+        "url": "https://fm4.orf.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/fam.png",
+          "alt": "Follow Austria"
+        },
+        "url": "https://www.followaustria.com/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/influence-vision.png",
+          "alt": "Influence Vision"
+        },
+        "url": "https://www.influencevision.com/de/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/kleine-zeitung.png",
+          "alt": "Kleine Zeitung"
+        },
+        "url": "https://www.kleinezeitung.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/nationalbibliothek.png",
+          "alt": "Nationalbibliothek"
+        },
+        "url": "https://www.onb.ac.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/profil.png",
+          "alt": "Profil Nachrichtenmagazin"
+        },
+        "url": "https://www.profil.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/superfly-fm.png",
+          "alt": "Superfly FM"
+        },
+        "url": "https://superfly.fm/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/studio-wunderbar.png",
+          "alt": "Studio Wunderbar"
+        },
+        "url": "https://www.studiowunderbar.at/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/wild.png",
+          "alt": "Wild"
+        },
+        "url": "https://wild.as/"
+      },
+      {
+        "logo": {
+          "src": "/images/logos/vielseitig.png",
+          "alt": "Vielseitig"
+        },
+        "url": "https://www.vielseitig.co.at/"
+      }
+    ]
+  },
+  "press": {
+    "title": "Pressekontakte",
+    "items": [
+      "<p>Max Schnürer <br/> +43 660 477 51 73 <br/> <a href='mailto:max@buerobutter.com'>max@buerobutter.com</a></p>",
+      "<p>Valerie Besl <br/> +43 664 833 92 66 <br/> <a href='mailto:valerie.besl@vielseitig.co.at'>valerie.besl@vielseitig.co.at</a></p>"
+    ]
+  },
+  "impressum": {
+    "text": "<p>Mit freundlicher Genehmigung des Argon Verlags bei dem die vollständige Lesung des Tagebuches von Anne Frank erschienen ist, gelesen von Fritzi Haberlandt, ISBN 978-3-8398-4054-2</p><p>Mit freundlicher Genehmigung der S. Fischer Verlag GmbH</p><p><a href='/impressum'>Impressum</a></p>"
+  }
+}

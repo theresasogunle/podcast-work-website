@@ -1,0 +1,803 @@
+{
+  "color": "black",
+  "cover": {
+    "src": "/images/1944/1944.jpg",
+    "alt": "1944 full cover"
+  },
+  "months": [
+    {
+      "title": "Die Wolfschanze",
+      "description": "<p>Generalfeldmarschall Erich von Manstein reist zu Adolf Hitler in dessen Hauptquartier 'Wolfsschanze', um ihn zu einer Rückverlegung der Ostfront zu bewegen. Doch Hitler will die Front um jeden Preis halten.</p><p>Zeitgleich verurteilt ein faschistisches Sondergericht in Verona fünf Faschistenführer zum Tode, die im Vorjahr am Sturz Benito Mussolinis beteiligt waren. Unter ihnen ist auch Mussolinis Schwiegersohn, Graf Galeazzo Ciano.</p>",
+      "month": 1,
+      "cover": {
+        "src": "/images/1944/01/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 2,
+          "width": 2,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:2_Christoph_Feurstein.mp3",
+            "speakerId": "christoph_feurstein"
+          }
+        },
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:6_Raphaela_Fuchs.mp3",
+            "speakerId": "raphaela_fuchs"
+          }
+        },
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:7_Raphaela_Fuchs.mp3",
+            "speakerId": "raphaela_fuchs"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:12_Alexander_Payer.mp3",
+            "speakerId": "alexander_payer"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:15_Alexander_Payer.mp3",
+            "speakerId": "alexander_payer"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:19_Alexander_Payer.mp3",
+            "speakerId": "alexander_payer"
+          }
+        },
+        {
+          "day": 22,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:22_Stipsits.mp3",
+            "speakerId": "thomas_stipsits"
+          }
+        },
+        {
+          "day": 24,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:24_Stipsits.mp3",
+            "speakerId": "thomas_stipsits"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:28_Fanny.mp3",
+            "speakerId": "fanny_stapf"
+          }
+        },
+        {
+          "day": 30,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:1:30_vanillaholica.mp3",
+            "speakerId": "vivien_von_vanillaholica"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 2,
+      "cover": {
+        "src": "/images/1944/02/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 5,
+          "y": 4,
+          "width": 3,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1944:2:3_vanillaholica.mp3",
+            "speakerId": "vivien_von_vanillaholica"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:8_vanillaholica.mp3",
+            "speakerId": "vivien_von_vanillaholica"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:12_vanillaholica.mp3",
+            "speakerId": "vivien_von_vanillaholica"
+          }
+        },
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:14_vanillaholica.mp3",
+            "speakerId": "vivien_von_vanillaholica"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:15_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:16_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:17_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 18,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:18_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:19_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:20_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 23,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:23_rafi_veni.mp3",
+            "speakerId": "rafi_veni"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:27_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:2:28_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 3,
+      "cover": {
+        "src": "/images/1944/03/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 1,
+          "width": 3,
+          "height": 1
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:1_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:2_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:3_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 4,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:4_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:6_stilles_bunt.mp3",
+            "speakerId": "lilly_von_stillesbunt"
+          }
+        },
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:7_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:8_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:10_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:11_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:12_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:14_Austrofred.mp3",
+            "speakerId": "austrofred"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:15_Martina_Ebm.mp3",
+            "speakerId": "martina_ebm"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:16_Martina_Ebm.mp3",
+            "speakerId": "martina_ebm"
+          }
+        },
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:17_Martina_Ebm.mp3",
+            "speakerId": "martina_ebm"
+          }
+        },
+        {
+          "day": 18,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:18_Martina_Ebm.mp3",
+            "speakerId": "martina_ebm"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1944:3:19_Martina_Ebm.mp3",
+            "speakerId": "martina_ebm"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:20_berosagogreen.mp3",
+            "speakerId": "sabrina_von_be_rose_go_green"
+          }
+        },
+        {
+          "day": 22,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:22_berosagogreen.mp3",
+            "speakerId": "sabrina_von_be_rose_go_green"
+          }
+        },
+        {
+          "day": 23,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:23_berosagogreen.mp3",
+            "speakerId": "sabrina_von_be_rose_go_green"
+          }
+        },
+        {
+          "day": 24,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:24_berosagogreen.mp3",
+            "speakerId": "sabrina_von_be_rose_go_green"
+          }
+        },
+        {
+          "day": 25,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:25_Mara.mp3",
+            "speakerId": "mara_von_stadtmärchen"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:27_Mara.mp3",
+            "speakerId": "mara_von_stadtmärchen"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:28_Mara.mp3",
+            "speakerId": "mara_von_stadtmärchen"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:29_Mara.mp3",
+            "speakerId": "mara_von_stadtmärchen"
+          }
+        },
+        {
+          "day": 31,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:3:31_Spera.mp3",
+            "speakerId": "danielle_spera"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 4,
+      "cover": {
+        "src": "/images/1944/04/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 3,
+          "width": 2,
+          "height": 1
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:1_Spera.mp3",
+            "speakerId": "danielle_spera"
+          }
+        },
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:3_Spera.mp3",
+            "speakerId": "danielle_spera"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:5_Spera.mp3",
+            "speakerId": "danielle_spera"
+          }
+        },
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:6_Spera.mp3",
+            "speakerId": "danielle_spera"
+          }
+        },
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:11_Thees_Uhlmann.mp3",
+            "speakerId": "thees_uhlmann"
+          }
+        },
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:14_Jan_von_1000things.mp3",
+            "speakerId": "jan_von_1000things"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:15_Jan_von_1000things.mp3",
+            "speakerId": "jan_von_1000things"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:16_Jan_von_1000things.mp3",
+            "speakerId": "jan_von_1000things"
+          }
+        },
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:17_Jan_von_1000things.mp3",
+            "speakerId": "jan_von_1000things"
+          }
+        },
+        {
+          "day": 18,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:18_Anna_Schneider.mp3",
+            "speakerId": "anna_schneider"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:19_Anna_Schneider.mp3",
+            "speakerId": "anna_schneider"
+          }
+        },
+        {
+          "day": 21,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:21_Anna_Schneider.mp3",
+            "speakerId": "anna_schneider"
+          }
+        },
+        {
+          "day": 25,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:25_Anna_Schneider.mp3",
+            "speakerId": "anna_schneider"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:27_Robert_Reinagl.mp3",
+            "speakerId": "robert_reinagl"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:4:28_Robert_Reinagl.mp3",
+            "speakerId": "robert_reinagl"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Der Krieg in Europa",
+      "description": "<p>Erst nach vier Angriffen gelingt es im Mai, die deutsche Gustav-Linie zu durchbrechen. Eine polnische Einheit erreicht nach schweren Gefechten den Gipfel des Monte Cassino und hisst die polnische Flagge auf den Trümmern des zerstörten Klosters. Nun steht der Weg nach Rom offen.</p><p>Am 4. Juni 1944 nehmen amerikanische Truppen die italienische Hauptstadt ein. Doch es wird noch lange dauern, bis ganz Italien erobert ist. Erst nach monatelangen schweren Kämpfen erreichen die Alliierten eine neue deutsche Linie nördlich von Florenz. Hier bleibt die Front bis zum Frühjahr 1945 bestehen. Die Alliierten konzentrieren sich nun hauptsächlich auf den Kampf in Nordwest-Europa. Die Schlacht um Monte Cassino kostet 55.000 alliierten Soldaten das Leben. Auf deutscher Seite sind die Verluste viel geringer: 20.000 Soldaten sterben.</p><p>Am 26. Mai 1944 wird von den 1.500 Transportern, die in Auschwitz ankommen, zum ersten Mal ein Zug schwarz auf weiß in Form einer Fotografie festgehalten. Er bringt Jüdinnen und Juden aus dem Norden Ungarns in das Lager. Zwei SS-Männer fotografieren die Menschen, die aussteigen. Die Aufnahmen zeigen, dass sie sich in Reihen vor den SS-Offizieren aufstellen müssen. Männer und Frauen, die zur Zwangsarbeit ausgewählt werden, gehen in Häftlingskleidung ins Lager. Eine andere Gruppe wartet in der Nähe der Gaskammern auf den Tod.</p><p>Der Transport umfasst 3.500 der 437.000 ungarischen Juden, die zwischen dem 15. Mai und dem 8. Juli 1944 nach Auschwitz deportiert wurden. Fast alle von ihnen werden ermordet.</p>",
+      "month": 5,
+      "cover": {
+        "src": "/images/1944/05/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 3,
+          "width": 2,
+          "height": 1
+        }
+      },
+      "days": [
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:2_Robert_Reinagl.mp3",
+            "speakerId": "robert_reinagl"
+          }
+        },
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:3_Robert_Reinagl.mp3",
+            "speakerId": "robert_reinagl"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:5_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:6_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:7_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:8_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:9_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:10_Cobbina.mp3",
+            "speakerId": "nadine_cobbina"
+          }
+        },
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:11_Yasmo.mp3",
+            "speakerId": "yasmo"
+          }
+        },
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:13_Yasmo.mp3",
+            "speakerId": "yasmo"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:16_Yasmo.mp3",
+            "speakerId": "yasmo"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:19_Yasmo.mp3",
+            "speakerId": "yasmo"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:20_Dirk_von_Lowtzow.mp3",
+            "speakerId": "dirk_von_lowtzow"
+          }
+        },
+        {
+          "day": 22,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:22_Dirk_von_Lowtzow.mp3",
+            "speakerId": "dirk_von_lowtzow"
+          }
+        },
+        {
+          "day": 25,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:25_Dirk_von_Lowtzow.mp3",
+            "speakerId": "dirk_von_lowtzow"
+          }
+        },
+        {
+          "day": 26,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:26_Niedetzky.mp3",
+            "speakerId": "angelika_niedetzky"
+          }
+        },
+        {
+          "day": 31,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:5:31_Niedetzky.mp3",
+            "speakerId": "angelika_niedetzky"
+          }
+        }
+      ]
+    },
+    {
+      "title": "This is D-Day",
+      "description": "<p>Am 6. Juni 1944 beginnt kurz nach Mitternacht der D-Day, eine groß angelegte Militäroperation. Mehr als 5.000 Schiffe transportieren 150.000 alliierte Soldaten und 1.500 Panzer an die Küste der Normandie in Frankreich. Zwei Jahre lang wird die „Operation Overlord“ hinter den Kulissen vorbereitet, mit dem Ziel eines Militärstützpunkts auf dem europäischen Festland. Von dort aus können die Alliierten die besetzten Länder befreien und in Richtung Berlin vorrücken.</p><p>Die Deutschen rechnen bereits mit einem Angriff, aber in Calais und nicht in der Normandie. Denn in Calais ist der Ärmelkanal, die Meerenge zwischen Großbritannien und Frankreich, am schmalsten. Entlang der gesamten französischen Küste stationiert die deutsche Wehrmacht eine halbe Million Soldaten. Dazu kam ein der Atlantikwall, den die Deutschen dort als stabile Verteidigungslinie errichten. Die Alliierten verlieren an mehreren Küstenabschnitten der Normandie an Land. Während sie die Deutschen an manchen Orten leicht zurückdrängen können, stoßen sie in manchen Orten auf große Gegenwehr. Besonders an der Landungszone „Omaha Beach“ gelingt es den amerikanischen Bombern nicht, die deutsche Verteidigungslinie zu treffen. Die Deutschen feuern einen Kugelhagel auf die Soldaten nieder, die versuchen, an Land zu gelangen. Am Ende des D-Day errichten die Alliierten schließlich einen Stützpunkt am Festland. Die Deutschen versuchen ihre Stellung zu halten und in der Normandie wird noch zwei Monate lang gekämpft, bevor es den Alliierten gelingt, weiter vorzurücken.</p><p>Am 15. August landen die Alliierten auch in Südfrankreich. Die Hauptstadt Paris wird am 25. August befreit, Mitte September 1944 ist die deutsche Armee fast aus Frankreich vertrieben.</p>",
+      "month": 6,
+      "cover": {
+        "src": "/images/1944/06/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 1,
+          "width": 2,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:2_Niedetzky.mp3",
+            "speakerId": "angelika_niedetzky"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:5_Armin_Wolf.mp3",
+            "speakerId": "armin_wolf"
+          }
+        },
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:6_Armin_Wolf.mp3",
+            "speakerId": "armin_wolf"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:9_Armin_Wolf.mp3",
+            "speakerId": "armin_wolf"
+          }
+        },
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1944:6:13_ChristlClear.mp3",
+            "speakerId": "christl_clear"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:16_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        },
+        {
+          "day": 23,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:23_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:27_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        },
+        {
+          "day": 30,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:6:30_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Das Stauffenberg-Attentat",
+      "description": "<p>Auch in den eigenen Reihen beginnt das Deutsche Reich langsam zu bröckeln. Bei einer Besprechung mit Adolf Hitler am 20. Juli 1944 deponiert der deutsche Offizier Claus von Stauffenberg eine Bombe unter dem Tisch. Nachdem von Stauffenberg den Raum verlassen hat, explodiert der Sprengsatz, doch wie durch ein Wunder überlebt Hitler das Attentat.</p><p>Nach seiner Machtübernahme gibt es mehrere deutsche Wehrmachtsoffiziere, die Hitler aus dem Weg räumen wollen. Manche sehen sich nach mehr Einfluss und Macht, andere wollen verhindern, dass Hitler Deutschland in einem sinnlosen Krieg vernichtet. Für die Verantwortlichen bedeuten diese Umsturzversuche die Verhaftung, einen Schauprozess und daraufhin die Todesstrafe.</p>",
+      "month": 7,
+      "cover": {
+        "src": "/images/1944/07/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 1,
+          "width": 4,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:7:6_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:7:8_Mirjam_Unger.mp3",
+            "speakerId": "mirijam_unger"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:7:15_Hannah.mp3",
+            "speakerId": "hannah"
+          }
+        },
+        {
+          "day": 21,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:7:21_Hannah.mp3",
+            "speakerId": "hannah"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Das Ende des Tagebuchs der Anne Frank",
+      "description": "<p>Am 4. August 1944 wird Familie Frank und die anderen Untergetauchten entdeckt und eingesperrt. Kriminalbeamte erscheinen im Haus Prinsengracht 263 in Amsterdam und gehen ins Büro im ersten Stock, wo die Helfer:innen der Untergetauchten arbeiten. Victor Kugler wird verhört und sein Haus durchsucht. Als sie in den Raum mit dem schwenkbaren Bücherschrank gelangen, entdecken sie das Versteck. Gemeinsam mit ihren Helfern Johannes Kleimann und Victor Kugler werden alle Untergetauchten in das SD-Gefängnis in Euterpestraat gebracht. Nach einem Verhör werden sie getrennt. Johannes Kleimann und Victor Kugler müssen ins Gefängnis am Amstelveenseweg, die Untergetauchten ins Gefängnis an der Weteringschans.</p>",
+      "month": 8,
+      "cover": {
+        "src": "/images/1944/08/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 1,
+          "width": 4,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1944:8:1_Hannah.mp3",
+            "speakerId": "hannah"
+          }
+        }
+      ]
+    }
+  ]
+}

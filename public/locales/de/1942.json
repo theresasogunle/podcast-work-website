@@ -1,0 +1,472 @@
+{
+  "color": "white",
+  "cover": {
+    "src": "/images/1942/1942.jpg",
+    "alt": "1942 full cover"
+  },
+  "months": [
+    {
+      "title": "Die Wannseekonferenz",
+      "description": "<p>Am 1. Januar 1942 treffen sich 26 Nationen im Weißen Haus in Washington, um die UN-Erklärung zu unterzeichnen und verpflichten sich zum gemeinsamen Kampf gegen ihre Achsenmächte Deutschland, Italien, Japan und deren Verbündeten zu unterschreiben. Sie nennen sich die Vereinten Nationen und deren Vertreter:innen sind unter anderem die Sowjetunion, USA, Großbritannien, China, Belgien, Griechenland, Tschechoslowakische Republik, Indien, Luxemburg und Holland. Bis Oktober 1943 schließen sich noch weitere sieben, bis Ende des Weltkrieges noch weitere zehn, Nationen an.</p><p>Auf der gegnerischen Seite findet am 20. Januar 1942 ebenfalls ein Treffen statt, das große Auswirkungen haben wird. In einer Villa am Wannsee in Berlin, bei der sogenannten Wannseekonferenz, organisieren fünfzehn ranghohe Nazis die Ermordung europäischer Juden. Zuvor hatte man noch gedacht, man könnte die Juden ins Ausland emigrieren, stattdessen sollen die Juden nun in den Osten „evakuiert“ und dort „entsprechend behandelt“ werden. Die wahren Absichten werden hinter bürokratischer Sprache versteckt. „Evakuierung“ bedeutete die Deportation in Konzentrations- und Vernichtungslager und „entsprechend behandeln“ stand für Mord. Hitler selbst hatte bereits viel früher beschlossen, dass alle europäischen Juden ermordet werden sollen. Schon seit Juli 1941 waren in der Sowjetunion deutsche Spezialeinheiten, sogenannte Einsatztruppen, im Einsatz, die jüdische Männer, Frauen und Kinder ermordeten. Anfang 1942 hatten bereits mehr als eine Million Juden durch die Nazis ihr Leben verloren.</p><p>Sechs Tage später, am 26. Januar, treffen in Nordirland die ersten amerikanischen Truppen für den Einsatz in Europa ein.</p>",
+      "month": 1,
+      "cover": {
+        "src": "/images/1942/01/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 2,
+          "width": 5,
+          "height": 3
+        }
+      },
+      "days": []
+    },
+    {
+      "title": "Das Vernichtungslager Auschwitz wird erweitert",
+      "description": "<p>Am 1. März 1942 wird im besetzten Polen das zweite Konzentrationslager in Birkenau eröffnet. Das erste polnische Lager in Auschwitz wird im Mai 1940 erst als Gefängnis für Kriegsgefangene und politische Gegner:innen errichtet. Da der Platz für die vielen Insass:innen nicht ausreichte, wurde das Lager nur wenige Kilometer entfernt um ein zweites, in Birkenau erweitert. Gemeinsam ist Auschwitz-Birkenau ein weiträumiges, 175 Hektar großes Gelände mit hunderten Baracken, in denen jeweils mehrere hunderte Menschen untergebracht sind. Nach ihrer Ankunft wird ein Großteil umgehend in einer der vier Gaskammern durch das Gift Zyklon B ermordet. Der andere Teil wird von den Nazis zur Zwangsarbeit eingeteilt. Die hygienischen Umstände sind äußerst schlecht und es gibt viel zu wenig von ohnehin schon minderwertigem Essen. Gefangene sterben jeden Tag vor Entkräftung und an Krankheiten.</p><p>Über 57.000 Jüdinnen und Juden aus den Niederlanden werden in Auschwitz ermordet. Nur 970 jüdische Niederländer:innen überleben das Lager. Insgesamt werden in Auschwitz und seinen Nebenlagern mehr als 1 Million Menschen ermordet: ca. 1 Million Jüdinnen und Juden, 70.000 Polinnen und Polen und 21.000 Roma und Sinti. Fast alle 15.000 sowjetischen Kriegsgefangenen sterben. Zudem kommen tausende politische Häftlinge und Widerstandskämpfer:innen aus mehreren Ländern Europas um. Am 17. März 1942 beginnt mit dem ersten Deportationszug nach <a href='https://www.dhm.de/lemo/kapitel/zweiter-weltkrieg/holocaust/belzec' target='_blank'>Belzec</a> die „Aktion Reinhardt“ und damit die systematische Ermordung der Juden. Am 26. Januar treffen die ersten Züge mit Jüdinnen und Juden aus ganz Europa in Auschwitz ein.</p>",
+      "month": 3,
+      "cover": {
+        "src": "/images/1942/03/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 3,
+          "width": 5,
+          "height": 3
+        }
+      },
+      "days": []
+    },
+    {
+      "title": "Kriegsgefangene in Japan und Ostasien",
+      "description": "<p>Auch Japan behandelt Kriegsgefangene und Zivilist:innen in besetzten Gebieten mehr als menschenunwürdig. Im April 1942 zwingt die japanische Armee über 70.000 amerikanische und philippinische Kriegsgefangene zu einem hunderte Kilometer langen Fußmarsch in sengender Hitze. Eine ganze Woche lang müssen sie ohne ausreichend Essen und Trinken zu den Zügen gehen, die sie in die Kriegsgefangenenlager bringen. Unterwegs werden sie schwer misshandelt, tausende sterben bereits am Weg.</p><p>In ganz Ostasien entstehen durch die Japaner:innen sogenannte Internierungslager, von den Niederländer:innen auch „Jappenkampen“ („Japsenlager“) genannt. In Niederländisch-Indien, im heutigen Indonesien halten die Japaner:innen ungefähr 42.000 Soldat:innen und 100.000 Zivilist:innen gefangen. Familien werden getrennt und Unterernährung, Krankheiten und Misshandlungen führen für zehntausende Menschen zum Tod. Darunter auch viele Zivilist:innen aus den Ländern der Alliierten Großbritannien, Amerika und den Niederlanden.</p>",
+      "month": 4,
+      "cover": {
+        "src": "/images/1942/04/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 2,
+          "width": 4,
+          "height": 4
+        }
+      },
+      "days": []
+    },
+    {
+      "title": "Der gelbe Stern",
+      "description": "<p>Mit der Einführung des gelben Sterns kündigen die Nazis ab 3. Mai 1942 eine neue Schikane für die jüdischen Niederländer:innen an. Durch den sechszackigen gelben Davidstern mit dem Wort „Jude“ in der Mitte sollen Menschen auf der Straße als Jüdinnen und Juden erkennbar werden. Wer sich weigert den Stern zu tragen, wird hart bestraft und kann sogar ins Konzentrationslager geschickt werden. Insgesamt werden 569.355 „Judensterne“ verbreitet und selbst Kinder ab 6 Jahren waren von der neuen Verordnung nicht ausgenommen. Manchen tragen ihn mit Stolz, andere fühlen sich gedemütigt. Aber auch nichtjüdischen Niederländer:innen zeigen, was sie von der neuen Kennzeichnung halten und protestieren mit selbstgemachten Sternen mit der Aufschrift „Katholik“ oder „Arier“. Andere grüßen Juden auf der Straße oder überlassen ihnen ihren Sitzplatz in der Straßenbahn. Doch die Solidarität und die Empörung nimmt mit der Zeit ab und so vergrößert sich die die Kluft zwischen den jüdischen und nicht-jüdischen Niederländer:innen.</p><p>Währenddessen werden am 12. Mai im Vernichtungslager Auschwitz-Birkenau die ersten datierten Massenvergasungen durchgeführt und 1.500 Jüdinnen und Juden vergast.</p><p>In Amsterdam stattet Heinrich Himmler am 18. Mai dem neuen „Polizeibataillon Amsterdam“ einen Besuch ab und hält am heutigen Museumplein eine Rede. Die Polizist:innen dieser Einheit werden von der SS ausgebildet und Himmler betont: „Moderne Polizei muss ein Freund der Bevölkerung sein und kein Buhmann“. Am selben Tag macht Himmler klar, wie ernst es ihm mit dem Kampf gegen die Juden sei.</p>",
+      "month": 5,
+      "cover": {
+        "src": "/images/1942/05/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 3,
+          "width": 6,
+          "height": 3
+        }
+      },
+      "days": []
+    },
+    {
+      "title": "„Abteilung für jüdische Angelegenheiten“",
+      "description": "<p>Am 1. Juni 1943 richtet der Präsident der Amsterdamer Polizei, Sybren Tulp die „Abteilung für jüdische Angelegenheiten“ ein. Damit soll die jüdische Bevölkerung durch die ortskundige Amsterdamer Polizei besser aufgespürt werden. Die Abteilung mit dem Sitz in Amsterdam wird geleitet von Rudolf Dahmen von Buchholz, NSB-Mitglied und bekennender Antisemit. Ziel ist es, Jüdinnen und Juden festzunehmen, die gegen die antijüdischen Gesetze und Verordnungen verstoßen und Untergetauchte zu finden. Die Festnahmen sind gewaltsam und ziehen Diebstähle von jüdischem Eigentum mit sich. Die Diebstähle geraten sogar so stark außer Kontrolle, dass die Abteilung Anfang 1943 unter die Leitung des Sicherheitsdienstes gestellt wird.</p><p>Die Beschränkung der Rechte von Jüdinnen und Juden durch die deutsche Besatzungsmacht nehmen ihren Lauf und am 30. Juni 1942 werden neue Regeln beschlossen: Jüdinnen und Juden dürfen nicht mehr Rad fahren und keine öffentlichen Verkehrsmittel mehr benutzen. Autofahren ist bereits seit Januar 1942 verboten. Schon seit 1941 gibt es beinahe wöchentlich neue Gesetze, die die Freiheit der jüdischen Bevölkerung einschränken.</p>",
+      "month": 6,
+      "cover": {
+        "src": "/images/1942/06/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 1,
+          "width": 5,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:12_Masha.mp3",
+            "speakerId": "masha"
+          }
+        },
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:14_Masha.mp3",
+            "speakerId": "masha"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:15_Masha.mp3",
+            "speakerId": "masha"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:20_Masha.mp3",
+            "speakerId": "masha"
+          }
+        },
+        {
+          "day": 21,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:21_Brezina.mp3",
+            "speakerId": "thomas_brezina"
+          }
+        },
+        {
+          "day": 24,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:6:24_Brezina.mp3",
+            "speakerId": "thomas_brezina"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Familie Frank taucht unter",
+      "description": "<p>Die Familie Frank gerät, genau wie alle anderen jüdischen Familien, durch die stetig strenger werdenden Bestimmungen der deutschen Besatzung immer mehr unter Druck. Dazu kommt, dass Margot am 5. Juli 1942 einen Aufruf für ein Arbeitslager in Deutschland bekommt. Sie gehört zu der ersten Gruppe von Jüdinnen und Juden in den Niederlanden, die solch einen Deportationsbescheid erhalten. Ihre Eltern wollen sie nicht gehen lassen, obwohl man bei einer Widersetzung umgehend verhaftet wird. Otto und Edith sind vorbereitet und planen am 16. Juli unterzutauchen. Dafür wird der hintere Bereich von Ottos Firmengebäudes eingerichtet. Durch Margots Aufruf beschließt die Familie sich noch früher zu verstecken und am Morgen des folgenden Tages verlässt sie die Wohnung. Ihrem Untermieter sagen sie, sie würden in die Schweiz gehen. Anne schreibt ein paar Tage später in ihr Tagebuch über das Leben im Versteck: „Aus dem Fenster schauen oder nach draußen gehen dürfen wir natürlich nie. Außerdem müssen wir leise sein, denn unten dürfen sie uns nicht hören.“</p><p>Die Familie Frank erhält Hilfe von sechs Angestellten und Freund:innen von Otto. Doch sie müssen ihr neues Zuhause vor den Lagerarbeitern im Erdgeschoss versteckt halten. Nur der Vater der Helferin Bep Voskuijl ist eingeweiht. Er ist Lagermeister und hat auf alles ein wachsames Auge.</p><p>Gemeinsam mit Margot wurden ca. 4.000 weitere Jüdinnen und Juden dazu auf aufgefordert, sich zur „werkverruiming onder politietoezicht“ („Arbeitsbeschaffung unter Polizeiaufsicht“) zu melden. Manchmal erhalten auch nur Kinder, wie bei Familie Frank, diese Aufforderungen. Und genau wie sie auch, werden unzählige Menschen misstrauisch und melden sich nicht zur euphemistisch umschriebenen Zwangsarbeit. Daraufhin reagiert die deutsche Polizei am 14. Juli mit Razzien in Amsterdam-Süd und im Stadtzentrum. Dabei werden rund 700 Menschen festgenommen, aber nach der nachträglichen Meldung von 200 Menschen werden sie wieder freigelassen. Am nächsten Tag fährt der erste Zug mit 962 Jüdinnen und Juden von Centraal Station, dem Amsterdamer Hauptbahnhof, in das Durchgangslager Westerbork. Noch am selben Tag rollt der erste Zug mit 1.137 Menschen von Westerbork ins Konzentrations- und Vernichtungslager Auschwitz und den ganzen Juli über folgen weitere. In Amsterdam nehmen die Razzien der Polizei immer weiter zu. Nazis riegeln Straßen ab, holen Menschen aus ihren Wohnungen und verhaften sie. Sie drohen damit, ungemeldete Personen direkt nach Mauthausen zu schicken, was als Todesurteil gilt.</p><p>Zur selben Zeit finden auch in Paris großangelegte Razzien statt. Am 16. Juli verhaftete die französische Polizei im Auftrag der deutschen Besetzung mehr als 13.000 ausländische Jüdinnen und Juden, darunter 4.000 Kinder. Mehr als 8.000 Menschen werden vorübergehend in die Radsporthalle „Vélodrome d’Hiver“ gepfercht. Alle anderen kommen in das Sammel- und Durchgangslager Drancy in der Nähe von Paris oder in Lager in der Provinz, wo sie unter schlimmsten Umständen ausharren müssen. In den Wochen darauf werden sie nach Auschwitz deportiert und die meisten von ihnen sofort ermordet.</p><p>Nach Protesten der Kirche gegen die Deportation wird in Frankreich ein Kompromiss mit den Nazis beschlossen. Dadurch werden vor allem ausländische Jüdinnen und Juden verhaftet, die den Großteil der 75.000 Menschen ausmachen, die in Frankreichs Vernichtungslagern deportiert werden. Ein großer Teil der 130.000 französischen jüdischen Bevölkerung kann einer Verhaftung und dem Tod entgehen.</p><p>Nur wenige Tage nach den Razzien in Paris beginnen am 22. Juli 1942 die Deportationen der Jüdinnen und Juden aus dem Warschauer Ghetto in das Vernichtungslager Treblinka.</p>",
+      "month": 7,
+      "cover": {
+        "src": "/images/1942/07/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 3,
+          "width": 6,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:1_Brezina.mp3",
+            "speakerId": "thomas_brezina"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:5_Brezina.mp3",
+            "speakerId": "thomas_brezina"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:8_Dalik.mp3",
+            "speakerId": "hilde_dalik"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1942:7:9_Dalik.mp3",
+            "speakerId": "hilde_dalik"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:10_Dalik.mp3",
+            "speakerId": "hilde_dalik"
+          }
+        },
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:11_Dalik.mp3",
+            "speakerId": "hilde_dalik"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:7:12_Gysi.mp3",
+            "speakerId": "gregor_gysi"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Die Schließung der Hollandsche Schouwburg",
+      "description": "<p>Ab 1. August 1942 wird das ehemalige Theater Hollandsche Schouwburg in Amsterdam eine Sammelstelle für Jüdinnen und Juden, von den Nazis „Umschlagplatz Plantage Middenlaan“ genannt. Die Menschen müssen sich nach einer Aufforderung freiwillig melden oder werden nach einer Razzia oder Verhaftung dort abgeliefert um auf die Weiterreise ins Lager Westerbork zu warten. Das Gebäude wird für die zahlreichen Menschen schnell zu klein und viele müssen für längere Zeit dort ausharren. Der Gestank und das Gedränge werden unerträglich. Der Jude Willy Alexander schreibt am 25. März 1943 in sein Tagebuch:„Im Augenblick befinden sich 1.300 Menschen in der kleinen ‚Hollandse Schouwburg‘. Es ist dann so warm und stickig (und natürlich auch schmutzig), dass alle ständig, um etwas zu trinken und um noch mehr zu trinken bitten.“</p><p>Mit der Schließung der Hollandsche Schouwburg Ende 1942 gilt Amsterdam als „judenfrei“ – fast alle sind deportiert.</p>",
+      "month": 8,
+      "cover": {
+        "src": "/images/1942/08/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 3,
+          "width": 5,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:8:14_Gysi.mp3",
+            "speakerId": "gregor_gysi"
+          }
+        },
+        {
+          "day": 21,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:8:21_Gysi.mp3",
+            "speakerId": "gregor_gysi"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jom Kippur",
+      "description": "<p>Nachdem am 29. September 1942 verkündet wird, dass vorläufig keine Jüdinnen und Juden nach Deutschland gebracht werden sollten, herrscht große Erleichterung. In dieser Woche noch stellt sich dies aber als Fehlinformation und als Falle der Nazis heraus. Während viele jüdische Familien zuhause Jom Kippur (großen Versöhnungstag) feiern, bereiten die Nazis große, landesweite Razzien durch. Der jüdische Feiertag wurde auf grausamste Weise missbraucht und von acht Uhr abends an, nimmt die Polizei alle Familien fest, deren Männer sich in Arbeitslagern außerhalb der Stadt befinden. Daraufhin werden die Menschen ins Arbeitslager Westerbork gebracht, wo man ihnen Familienvereinigungen verspricht, die nie stattfinden werden.</p>",
+      "month": 9,
+      "cover": {
+        "src": "/images/1942/09/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 2,
+          "width": 5,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:9:2_Ro%CC%88nne.mp3",
+            "speakerId": "ronja_rönne"
+          }
+        },
+        {
+          "day": 21,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:9:21_Ro%CC%88nne.mp3",
+            "speakerId": "ronja_rönne"
+          }
+        },
+        {
+          "day": 25,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:9:25_Ro%CC%88nne.mp3",
+            "speakerId": "ronja_rönne"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1942:9:28_enamariab.mp3",
+            "speakerId": "enamariab"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:9:29_Wienerkin.mp3",
+            "speakerId": "wienerkind"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 10,
+      "cover": {
+        "src": "/images/1942/10/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 5,
+          "y": 3,
+          "width": 3,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:1_Wienerkind.mp3",
+            "speakerId": "wienerkind"
+          }
+        },
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:3_Wienerkind.mp3",
+            "speakerId": "wienerkind"
+          }
+        },
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:7_Wienerkind.mp3",
+            "speakerId": "wienerkind"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:9_Stermann.mp3",
+            "speakerId": "dirk_stermann"
+          }
+        },
+        {
+          "day": 14,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:14_Stermann.mp3",
+            "speakerId": "dirk_stermann"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:20_Stermann.mp3",
+            "speakerId": "dirk_stermann"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:10:29_Ibiza.mp3",
+            "speakerId": "anahita_von_ibiza_memes"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Die Kriegslage",
+      "description": "<p>Am 9. November 1942 landen britische und amerikanische Truppen in Nordafrika und schon bald kann die Invasion erste Siege feiern. In Algier, Algeriens Hauptstadt, helfen jüdische Widerstandskämpfer:innen den Alliierten, die Stadt einzunehmen. Die französische Regierung, die mit Nazi-Deutschland zusammenarbeitet, kapituliert in Marokko und Algerien. Dreitausend Kilometer weiter östlich, in Ägypten und Libyen, kämpft Deutschland schon länger gegen die britische Armee. Dort wird das Land am 11. November 1942 bei El-Alamein besiegt. Ein halbes Jahr später, im Mai 1943, werden Deutschland und Italien ganz aus Nordafrika vertrieben.</p><p>An einer anderen Front, in Russland, schließt die deutsche 6. Armee am 22. November insgesamt 284.000 Soldaten in Stalingrad ein.</p>",
+      "month": 11,
+      "cover": {
+        "src": "/images/1942/11/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 4,
+          "width": 5,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:2_Ibiza.mp3",
+            "speakerId": "anahita_von_ibiza_memes"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:5_Ibiza.mp3",
+            "speakerId": "anahita_von_ibiza_memes"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1942_11_9_ibiza.mp3",
+            "speakerId": "anahita_von_ibiza_memes"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:10_Hader.mp3",
+            "speakerId": "josef_hader"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:12_Hader.mp3",
+            "speakerId": "josef_hader"
+          }
+        },
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:17_Hader.mp3",
+            "speakerId": "josef_hader"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:19_Hader.mp3",
+            "speakerId": "josef_hader"
+          }
+        },
+        {
+          "day": 20,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:20_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        },
+        {
+          "day": 28,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:11:28_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 12,
+      "cover": {
+        "src": "/images/1942/12/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 3,
+          "width": 4,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:12:7_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:12:10_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        },
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:12:13_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        },
+        {
+          "day": 22,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1942:12:22_Rubey.mp3",
+            "speakerId": "manuel_rubey"
+          }
+        }
+      ]
+    }
+  ]
+}

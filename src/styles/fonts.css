@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "RundGrotesk";
+  src: url("/fonts/Rund-Grotesk-Medium.woff2") format("woff2"), url("/fonts/Rund-Grotesk-Medium.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "RundGrotesk";
+  src: url("/fonts/Rund-Grotesk-Bold.woff2") format("woff2"), url("/fonts/Rund-Grotesk-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "SchadowBT";
+  src: url("/fonts/Schadow-BT-Medium.woff2") format("woff2"), url("/fonts/Schadow-BT-Medium.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "SchadowBT";
+  src: url("/fonts/Schadow-BT-Bold.woff2") format("woff2"), url("/fonts/Schadow-BT-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "KristallNow Pro";
+  src: url("/fonts/KristallNowPro-Medium.woff2") format("woff2"),
+    url("/fonts/KristallNowPro-Medium.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "KristallNow Pro";
+  src: url("/fonts/KristallNowPro-Bold.woff2") format("woff2"), url("/fonts/KristallNowPro-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+}

@@ -1,0 +1,556 @@
+{
+  "color": "red",
+  "cover": {
+    "src": "/images/1943/1943.jpg",
+    "alt": "1943 full cover"
+  },
+  "months": [
+    {
+      "title": "Schlacht von Stalingrad",
+      "description": "<p>Am 14. Januar 1943 beraten US-Präsident Franklin D. Roosevelt und der britische Ministerpräsident Winston Churchill bei der Konferenz von Casablanca über die Fortführung des Krieges.</p><p>In Marseille findet wenige Tage später, am 25. Januar, eine Großrazzia statt, bei der 40.000 Menschen verhaftet und deportiert werden.</p><p>Am 27. Januar beginnt auch die amerikanische Luftwaffe mit der Bombardierung Deutschlands und ihr erstes Ziel ist der Hafen von Wilhelmshaven. Die Aktion ist erfolgreich und viele Lagerhäuser, Hafen- und Werftanlagen werden zerstört. Die Deutschen verlieren 22 Flugzeuge, die Amerikaner nur drei. Wilhelmshaven ist eine wichtige Hafenstadt und die Alliierten bombardieren sie im Laufe des Krieges mehr als hundert Mal.</p><p>Zuvor startet nur die britische Luftwaffe, unterstützt durch andere alliierte Pilot:innen, Angriffe gegen Deutschland. Die Bombardements sind bis Ende 1944 die einzige Konfrontation der deutschen Bevölkerung mit Kriegsgewalt. Wöchentlich, manchmal täglich, bombardieren die Alliierten Fabriken, Verkehrsknotenpunkte und militärische Anlagen, aber auch Wohnviertel in Städten und kleineren Orten. Ziel ist es, zum einen die deutsche Luftwaffe und die Ölindustrie zu zerstören, andererseits will man die Moral der deutschen Bevölkerung und deren Unterstützung der Hitlerdiktatur brechen.</p><p>Die Bomber starten erst von Großbritannien, nach dem Sommer 1943 von Süditalien und nach dem Sommer 1944 auch von Frankreich aus. Erst 1944 erlangen die Alliierten die Lufthoheit über Europa. Nun fliegen sie bis ins besetzte Polen, um die deutschen Fabriken zu bombardieren. Rund 410.000 deutsche Zivilist:innen kommen durch die Bombardierungen um.</p><p>Ende des Monats, am 31. Januar 1943 muss Deutschland in der Schlacht um Stalingrad eine weitere Niederlage verzeichnen. Der deutsche Generalfeldmarschall Friedrich Paulus und seine 6. Armee ergeben sich am 31. Januar der Roten Armee der Sowjetunion. Von der deutschen Armee ist fast nichts mehr übrig. Für Deutschland eine vernichtende Niederlage nach fünf Monaten Kampf.</p><p>Ende August 1942 startet die deutsche Wehrmacht einen Großangriff, um die russische Stadt Stalingrad zu erobern. Die Eroberung ist nicht nur ein strategisches Ziel. Da die Stadt den Namen des sowjetischen Staatsführer Josef Stalin trägt, hat sie auch einen großen symbolischen Wert.</p><p>Beschießungen und Bombardierungen verwüsten Stalingrad, doch um die Stadt zu erobern, müssen die deutschen Soldaten Häuserblock um Häuserblock gegen die Rote Armee kämpfen. Sie werden dabei von Heckenschützen beschossen, die sich in den Trümmerbergen verstecken. Dazu kommt der strenge russische Winter, der für die Deutschen zum Nachteil und für die Russen zum Vorteil wird. Das Eis ist nun so dick, dass Panzer die Flüsse überqueren können. Während die Straßenkämpfe weitergehen, gelingt es den Sowjets Ende November 1942, die Stadt mit ihren Panzern einzukesseln. Die deutsche Armee sitzt in der Falle, aber weigert sich aufzugeben. Erst nach zahlreichen weiteren Konfrontationen endet die Schlacht. Auf beiden Seiten fallen hunderttausende Soldaten – ein wichtiger Wendepunkt im Krieg. Nun hat sich gezeigt, dass die deutsche Wehrmacht nicht unbesiegbar ist und das gibt den Menschen in der Sowjetunion und noch weit darüber hinaus Hoffnung.</p>",
+      "month": 1,
+      "cover": {
+        "src": "/images/1943/01/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 2,
+          "width": 3,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:1:13_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        },
+        {
+          "day": 30,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:1:30_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Der Totale Krieg",
+      "description": "<p>Für den Dienst am Vaterland werden ab 11.Februar in Deutschland fünfzehnjährige Schüler der höheren Schulen rekrutiert. Sie sollen im Krieg als Luftwaffenhelfer dienen. Eine Woche später, am 17. Februar hält Propagandaminister Joseph Goebbels seine berühmte Rede im Berliner Sportpalast und verkündet unter Beifall den „Totalen Krieg“.</p><p>Beim Verteilen von Flugblättern in der Münchner Universität werden die Geschwister Hans und Sophie Scholl von der Gestapo verhaftet und kurz darauf zum Tod verurteilt.</p><p>Am 24. Februar gibt Hitler die Anweisung, Befehlsverweigerer der Wehrmacht auf der Stelle zu erschießen.</p>",
+      "month": 2,
+      "cover": {
+        "src": "/images/1943/02/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 1,
+          "width": 4,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:2:5_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:2:27_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 3,
+      "cover": {
+        "src": "/images/1943/03/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 1,
+          "width": 3,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 4,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:4_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:10_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        },
+        {
+          "day": 12,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:12_westtoeast.mp3",
+            "speakerId": "elisa_von_westtoeast"
+          }
+        },
+        {
+          "day": 18,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:18_Coshiva.mp3",
+            "speakerId": "coshiva"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:19_Coshiva.mp3",
+            "speakerId": "coshiva"
+          }
+        },
+        {
+          "day": 25,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:3:25_Coshiva.mp3",
+            "speakerId": "coshiva"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1943_3_27_Bianca_Olivia.mp3",
+            "speakerId": "bianca_olivia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Aufstand im Warschauer Ghetto",
+      "description": "<p>Am 19. April 1943 formiert sich der Aufstand im Warschauer Ghetto, der nach wochenlangen Kämpfen am 16. Mai endgültig zusammenbricht. Mehr als 50.000 Jüdinnen und Juden kommen dabei ums Leben.</p><p>Im Umgang mit Jüdinnen und Juden gibt es kein Erbarmen mehr. Am 21. April ordnet der Reichsjustizminister Otto Georg Thierack die Deportation von polnischen und jüdischen Häftlingen aus den Gefängnissen in Konzentrationslager an.</p>",
+      "month": 4,
+      "cover": {
+        "src": "/images/1943/04/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 2,
+          "width": 6,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:4:1_Biancaolivia.mp3",
+            "speakerId": "bianca_olivia"
+          }
+        },
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1943_4_2_Bianca_Olivia.mp3",
+            "speakerId": "bianca_olivia"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:4:27_Biancaolivia.mp3",
+            "speakerId": "bianca_olivia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "description": "",
+      "month": 5,
+      "cover": {
+        "src": "/images/1943/05/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 2,
+          "width": 5,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 1,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:5:1_VanderBellen.mp3",
+            "speakerId": "alexander_van_der_bellen"
+          }
+        },
+        {
+          "day": 2,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:5:2_VanderBellen.mp3",
+            "speakerId": "alexander_van_der_bellen"
+          }
+        },
+        {
+          "day": 18,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1943:5:18_VanderBellen.mp3",
+            "speakerId": "alexander_van_der_bellen"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Der Engel des Todes",
+      "description": "<p>In Auschwitz führt der Arzt Joseph medizinische Untersuchungen an den Inhaftierten durch. Er wählt Menschen aus, um seine Vererbungstheorien zu testen. Sein Interesse gilt dem Studium von Menschen mit körperlichen Abnormitäten sowie der Zwillingsforschung. Die Experimente enden meistens mit dem Tod seiner Opfer. Mengele wird auch „Der Engel des Todes“ genannt.</p><p>Nach zahlreichen medizinischen Experimenten an Frauen mit Sterilisationsmethoden wird Reichsführer SS Heinrich Himmler am 7. Juni 1943 über die Ergebnisse informiert. Wenige Tage später beginnen die Westalliierten am 10. Juni mit einer kombinierten Bombenoffensive gegen Deutschland. Die Briten bombardieren nachts, die Amerikaner tagsüber. Am 21. Juni befiehlt Himmler die Auflösung aller jüdischen Ghettos in Polen. Der Weg der Juden führt über die Vernichtungslager in den Tod.</p>",
+      "month": 6,
+      "cover": {
+        "src": "/images/1943/06/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 1,
+          "width": 4,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:6:13_MariLang.mp3",
+            "speakerId": "mari_lang"
+          }
+        },
+        {
+          "day": 15,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:6:15_MariLang.mp3",
+            "speakerId": "mari_lang"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Bombardierung auf Amsterdam",
+      "description": "<p>Die Jüdinnen und Juden verlieren im Deutschen Reich sämtlichen Rechtsschutz und werden am 1. Juli 1943 unter das Polizeirecht gestellt. Zehn Tage später beginnt die Offensive in Sizilien. Am 10. Juli landen die Alliierten auf der Insel und schaffen über Luft und Wasser Truppen und Material an Land. Das schlechte Wetter erschwert die Operation, sorgt jedoch auch für ein Überraschungsmoment, denn die Deutschen und Italiener erwarten bei starkem Wind keinen Angriff. Am Ende des ersten Tages haben die Alliierten zwei Häfen erobert und neue Truppen können schnell an Land gelangen. Nach heftigen Kämpfen gewinnen sie Schritt für Schritt die Oberhand.</p><p>Ende Juli müssen sich Deutschland und Italien zurückziehen. Zwei Wochen später ist ganz Sizilien in den Händen der Alliierten. Von dort aus können die Briten und Amerikaner weiter in Italien vorrücken und mit der Befreiung Europas beginnen.</p><p>Zur selben Zeit planen die Alliierten am 17. Juli die Bombardierung auf Amsterdam und der Fokker-Werke im Norden der Stadt. Wegen eines Versehens verfehlen die Bomben ihr Ziel und treffen ein Wohnviertel im Norden von Amsterdam. Mehr als 150 Zivilist:innen kommen sofort ums Leben. Viele andere sterben später an ihren Verletzungen. Mehrere hundert Häuser werden beschädigt.</p><p>Anne Frank kann die Bombardierungen hören, denn das Hinterhaus ist nur wenige Kilometer entfernt. Sie schreibt am 19. Juli 1943 in ihr Tagebuch: „Am Sonntag ist Amsterdam-Nord schwer bombardiert worden. Die Verheerung muss schrecklich sein, ganze Straßenzüge liegen in Trümmern. Man hört von Kindern, die verloren in den schwelenden Ruinen ihre toten Eltern suchen. Mir läuft es noch kalt den Rücken hinunter, wenn ich an das dumpfe, dröhnende Donnern in der Ferne denke.“</p><p>Die Untergetauchten sind sich der Gefahr einer Bombardierung bewusst. Sie können ihr Versteck nicht verlassen, um sich in einen Luftschutzkeller zu flüchten. Und sie laufen Gefahr entdeckt zu werden, wenn das Hinterhaus beschädigt werden sollte.</p><p>Am 25. Juli 1943 sehen Anne und die anderen Untergetauchten eine „Rauchsäule über dem IJ“. Fokker wird zum zweiten Mal bombardiert. Diesmal werden die Fabriken zum Teil getroffen. Drei Tage später unternehmen die Alliierten einen weiteren Versuch, doch auch jetzt gelingt es nicht. 17 Zivilist:innen kommen dabei ums Leben. Anne schreibt:„Ich habe die Zähne zusammengebissen und so Tapferkeit trainiert.“</p><p>Insgesamt fordern die drei Bombardierungen der Fokker-Werke mehr als 200 Todesopfer unter der Zivilbevölkerung.</p><p>Am 24. Juli 1943 spricht der „Faschistische Großrat“ Italiens dem Diktator Benito Mussolini das Misstrauen aus und enthebt ihn seines Amtes. Gleichzeitig begann die neugebildete italienische Regierung Verhandlungen mit den Alliierten.</p>",
+      "month": 7,
+      "cover": {
+        "src": "/images/1943/07/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 3,
+          "y": 1,
+          "width": 4,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:11_MariLang.mp3",
+            "speakerId": "mari_lang"
+          }
+        },
+        {
+          "day": 13,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:13_HannaHerbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:16_HannaHerbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        },
+        {
+          "day": 19,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:19_HannaHerbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        },
+        {
+          "day": 23,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:23_HannaHerbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        },
+        {
+          "day": 26,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:7:26_HannaHerbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/korrektur_1943_7_29_herbst.mp3",
+            "speakerId": "hanna_herbst"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Euthanasie in Hamburg",
+      "description": "<p>Der Krieg durch die Nazis und deren Methoden fordert auch Opfer, die nicht Teil des Krieges sind und auch keinen jüdischen Stammbaum haben. Am 7. August werden in Hamburg im Zuge der Euthanasie über 500 Patient:innen der Psychiatrie zur Ermordung deportiert.</p>",
+      "month": 8,
+      "cover": {
+        "src": "/images/1943/08/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 4,
+          "y": 2,
+          "width": 4,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:3_Steiner.mp3",
+            "speakerId": "denise_steiner"
+          }
+        },
+        {
+          "day": 4,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:4_Steiner.mp3",
+            "speakerId": "denise_steiner"
+          }
+        },
+        {
+          "day": 5,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:5_Steiner.mp3",
+            "speakerId": "denise_steiner"
+          }
+        },
+        {
+          "day": 7,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:7_Steiner.mp3",
+            "speakerId": "denise_steiner"
+          }
+        },
+        {
+          "day": 9,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:9_Steiner.mp3",
+            "speakerId": "denise_steiner"
+          }
+        },
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:8:10_LisaLena_Tritscher.mp3",
+            "speakerId": "lisa_lena_tritscher"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Italien schließt sich den Westmächten an",
+      "description": "<p>Am 3. September können die Alliierten einen weiteren Sieg verbuchen. US-amerikanische Truppen landen auf italienischem Festland, Italien schließt sich den Westmächten an und erklärt Deutschland am 13. September den Krieg.</p><p>Deutsche Fallschirmtruppen befreien Mussolini aus seinem Gefängnis in den Abruzzen und brachten ihn nach Nazi-Deutschland. Vom Gardasee aus bildete er eine faschistische Gegenregierung und versuchte die Herrschaft in Nord- und Mittelitalien wiederzuerlangen.</p><p>Am 28. April 1945 werden Benito Mussolini und seine Geliebte Clara Petacci am Comer See erschossen und öffentlich aufgehängt.</p>",
+      "month": 9,
+      "cover": {
+        "src": "/images/1943/09/image.jpeg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 2,
+          "width": 3,
+          "height": 3
+        }
+      },
+      "days": [
+        {
+          "day": 10,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:9:10_LisaLena_Tritscher.mp3",
+            "speakerId": "lisa_lena_tritscher"
+          }
+        },
+        {
+          "day": 16,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:9:16_LisaLena_Tritscher.mp3",
+            "speakerId": "lisa_lena_tritscher"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:9:29_Bernhard_Murg.mp3",
+            "speakerId": "bernhard_murg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "„Ausrottung der Juden“",
+      "description": "<p>Anfang Oktober 1943 wollen die deutschen Besatzungstruppen, die über 8.000 in Dänemark lebenden Jüdinnen und Juden für die Deportation verhaften. Die meisten können sich jedoch durch eine rechtzeitig organisierte Flucht nach Schweden retten. In Deutschland und Polen wird diese Linie noch extremer verfolgt: Am 4.Oktober hält Heinrich Himmler in Posen vor ranghohen SS-Offizieren eine Rede, in der er offen und unmissverständlich über die Ausrottung der Juden spricht.</p><p>Deutliche Signale setzen am 19. Oktober in Moskau auch die Außenminister der Sowjetunion, der USA und Großbritanniens. Sie beschließen die Verurteilung des NS-Regimes durch einen internationalen Gerichtshof und Gebietsabtretungen des Deutschen Reichs.</p>",
+      "month": 10,
+      "cover": {
+        "src": "/images/1943/10/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 2,
+          "y": 2,
+          "width": 4,
+          "height": 4
+        }
+      },
+      "days": [
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:10:17_Bernhard_Murg.mp3",
+            "speakerId": "bernhard_murg"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:10:29_Bernhard_Murg.mp3",
+            "speakerId": "bernhard_murg"
+          }
+        },
+        {
+          "day": 30,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:10:30_Bernhard_Murg.mp3",
+            "speakerId": "bernhard_murg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Konferenz der „Großen Drei“",
+      "description": "<p>In seiner letzten strategischen Weisung an das Oberkommando der Wehrmacht (OKW) ordnet Hitler am 3. November die Konzentration auf die Verteidigung im Westen an. Auf Befehl Himmlers werden nach der Schließung von fünf SS-Betrieben in Lublin 17.000 jüdische Zwangsarbeiter:innen ermordet. Am 8. November wendet sich Hitler in einer seiner letzten Rundfunkansprachen noch einmal ans Volk und fordert ein rigoroses Vorgehen gegen Defätist:innen und Kriegsgegner:innen. Währenddessen plant man am 28.November bei einer Konferenz der Großen Drei in Teheran militärische Ziele und die Neuregelung eines Nachkriegseuropas. Stalin, Roosevelt und Churchill legen dabei die Grundlagen einer europäischen Nachkriegsordnung fest.</p>",
+      "month": 11,
+      "cover": {
+        "src": "/images/1943/11/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 1,
+          "y": 3,
+          "width": 5,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 3,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:11:3_Bernhard_Murg.mp3",
+            "speakerId": "bernhard_murg"
+          }
+        },
+        {
+          "day": 8,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:11:8_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        },
+        {
+          "day": 11,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:11:11_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        },
+        {
+          "day": 17,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:11:17_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:11:27_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mussolini ordnet Inhaftierungen an",
+      "description": "<p>Im Dezember 1943 ordnet Mussolini die Inhaftierung aller Jüdinnen und Juden und ihre Verbringung ins KZ an. An deutscher Front gibt es negative Entwicklungen. Sie wird an vielen Stellen von der vorrückenden Roten Armee durchbrochen.</p>",
+      "month": 12,
+      "cover": {
+        "src": "/images/1943/12/image.jpg",
+        "alt": "alt tag",
+        "bounds": {
+          "x": 3,
+          "y": 2,
+          "width": 4,
+          "height": 2
+        }
+      },
+      "days": [
+        {
+          "day": 6,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:6_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        },
+        {
+          "day": 22,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:22_Thomas_Jarmer.mp3",
+            "speakerId": "thomas_jarmer"
+          }
+        },
+        {
+          "day": 24,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:24_Christoph_Feurstein.mp3",
+            "speakerId": "christoph_feurstein"
+          }
+        },
+        {
+          "day": 27,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:27_Christoph_Feurstein.mp3",
+            "speakerId": "christoph_feurstein"
+          }
+        },
+        {
+          "day": 29,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:29_Christoph_Feurstein.mp3",
+            "speakerId": "christoph_feurstein"
+          }
+        },
+        {
+          "day": 30,
+          "podcast": {
+            "src": "https://media.annefrank.digital/1943:12:30_Christoph_Feurstein.mp3",
+            "speakerId": "christoph_feurstein"
+          }
+        }
+      ]
+    }
+  ]
+}

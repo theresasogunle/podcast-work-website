@@ -1,0 +1,424 @@
+{
+  "seo": {
+    "title": "ANNE FRANK DER PODCAST | Speakers",
+    "description": "Junge Menschen wissen immer weniger über die Verbrechen der Nazis. Der Podcast der Anne Frank soll das ändern: Ein Projekt zur politischen Bildung."
+  },
+  "title": "DIE SPRECHER:INNEN",
+  "description": "46 bekannte Persönlichkeiten — darunter Bundespräsident Alexander van der Bellen, Christl Clear, Thomas Brezina, Ronja von Rönne, Armin Wolf, Yasmo, Manuel Rubey und viele andere  —  haben eines der reichen Zeitdokumente des 20. Jahrhunderts eingelesen: Das audiovisuelle Projekt ANNE FRANK — DER PODCAST kämpft gegen Wissenslücken zu den NS-Verbrechen unter Jugendlichen.",
+  "items": [
+    {
+      "id": "masha",
+      "name": "Masha",
+      "bio": "Masha ist Influencerin und Podcasterin. Neben ihrem Studium startete sie 2010 auch ihren eigenen Lifestyleblog und seit letztem Jahr ihr eigenes Start up, dass sich der politischen Bildung auf Social Media widmet. Neben Themen wie Mode und Beauty nutzt sie ihre Stimme auch für gesellschaftlich relevante und politische Themen.",
+      "image": {
+        "src": "/images/speakers/masha.jpg",
+        "alt": "Masha"
+      }
+    },
+    {
+      "id": "thomas_brezina",
+      "name": "Thomas Brezina",
+      "bio": "Thomas Brezina ist mit über 570 veröffentlichen Büchern und mehr als 40 Millionen verkauften Exemplaren in über 35 Sprachen einer der erfolgreichsten Autoren Österreichs. Schon während seiner Schulzeit begann Thomas Brezina Geschichten zu schreiben und als Puppenspieler für das Fernsehen zu arbeiten.",
+      "image": {
+        "src": "/images/speakers/thomas_brezina.jpg",
+        "alt": "Thomas Brezina"
+      }
+    },
+    {
+      "id": "hilde_dalik",
+      "name": "Hilde Dalik",
+      "bio": "Hilde Dalik ist eine österreichische Schauspielerin.Ihre Schauspielausbildung hat sie am Konservatorium Wien und am Actors Center Rom abgeschlossen.Ab 2006 war sie Ensemblemitglied im Theater in der Josefstadt. Seit 2016 spielt sie in der Fernsehserie Vorstadtweiber die Rolle der Vanessa.",
+      "image": {
+        "src": "/images/speakers/hilde_dalik.jpg",
+        "alt": "Hilde Dalik"
+      }
+    },
+    {
+      "id": "gregor_gysi",
+      "name": "Gregor Gysi",
+      "bio": "Gregor Gysi war und ist eine der zentralen und prominentesten Persönlichkeiten der PDS bzw. der Partei Die Linke und wirkte prägend auf das politische Geschehen in der Bundespolitik Deutschland seit der politischen Wende von 1989/1990 ein.",
+      "image": {
+        "src": "/images/speakers/gregor_gysi.jpg",
+        "alt": "Gregor Gysi"
+      }
+    },
+    {
+      "id": "ronja_rönne",
+      "name": "Ronja Rönne",
+      "bio": "Seit 2012 betreibt Ronja ihren Blog „sudelheft” und arbeitet als Kolumnistin für ZEIT ONLINE. Ihr Roman „Wir kommen“ erschien im Aufbau-Verlag, ihre Kolumnensammlung „Heute ist leider schlecht – Beschwerden ans Leben“ bei S. Fischer. Sie präsentiert für Audible den Podcast „Meine erste Million” sowie das arte Magazin „Streetphilosphy“. Im Januar 2022 erscheint ihr neuer Roman „Ende in Sicht“ im dtv Verlag.",
+      "image": {
+        "src": "/images/speakers/ronne.jpg",
+        "alt": "Ronja Rönne"
+      }
+    },
+    {
+      "id": "enamariab",
+      "name": "Ena Maria B",
+      "bio": "ena.maria.b ist ein österreichischer Fashion- und Lifestyleblog, der im April 2018 nach langem Abwiegen von Pro und Kontra ins Leben gerufen wurde. Ihm voraus gegangen ist der dazugehörige Instagramfeed.",
+      "image": {
+        "src": "/images/speakers/enamariab.jpg",
+        "alt": "Ena Maria B"
+      }
+    },
+    {
+      "id": "wienerkind",
+      "name": "Wienerkind",
+      "bio": "Hinter dem Wienerkind steht Astrid, aus – no na – Wien. Dem Wienerkind ist es wichtig, eine nachhaltigere Lebensweise für jede*n greifbar zu machen & vor allem Lösungsansätze zu liefern. Sei es in Form von Müllvermeidung, nachhaltigerem Konsum oder Ernährung.",
+      "image": {
+        "src": "/images/speakers/wienerkind.jpg",
+        "alt": "Wienerkind"
+      }
+    },
+    {
+      "id": "dirk_stermann",
+      "name": "Dirk Stermann",
+      "bio": "Dirk Stermann, geboren 1965 in Duisburg, lebt seit 1987 in Wien. Er zählt zu den populärsten Kabarettisten und Fernsehmoderatoren Österreichs und ist auch in Deutschland durch Fernseh- und Radioshows sowie durch Bühnenauftritte und Kinofilme weit bekannt.",
+      "image": {
+        "src": "/images/speakers/dirk_stermann.jpg",
+        "alt": "Dirk Stermann"
+      }
+    },
+    {
+      "id": "anahita_von_ibiza_memes",
+      "name": "Anahita von Ibizia Memes",
+      "bio": "Anahita Neghabat ist Sozialanthropologin und Online-Aktivistin in Wien. Seit 2019 kommentiert sie als @ibiza_austrian_memes auf Instagram mit satirischen Bildern die österreichische Innenpolitik. Ihre akademische und künstlerische Arbeit beschäftigt sich mit intersektionalem Feminismus, Antirassismus und digitalen Medien.",
+      "image": {
+        "src": "/images/speakers/anahita_von_ibiza_memes.jpg",
+        "alt": "Anahita von Ibizia Memes"
+      }
+    },
+    {
+      "id": "josef_hader",
+      "name": "Josef Hader",
+      "bio": "Josef Hader ist ein österreichischer Kabarettist, Schauspieler, Autor und Filmregisseur. Seit den 1980er Jahren ist Hader einer der bekanntesten und populärsten Kabarettisten des Landes, der auch als Hauptdarsteller und Drehbuchautor für einige der erfolgreichsten österreichischen Filmproduktionen mitverantwortlich war. 2017 gab er mit Wilde Maus sein Debüt als Filmregisseur.",
+      "image": {
+        "src": "/images/speakers/josef_hader.jpg",
+        "alt": "Josef Hader"
+      }
+    },
+    {
+      "id": "manuel_rubey",
+      "name": "Manuel Rubey",
+      "bio": "Manuel Rubey ist ein österreichischer Schauspieler, Kabarettist und Sänger. Er besuchte die Schauspielschule Kraus in Wien und spielte anschließend in mehreren Kurzfilmen mit. Von 2002 bis 2010 war er Mitglied und Sänger der Rockband Mondscheiner und übernahm parallel dazu verschiedene Rollen am Landestheater Linz. Ein Film über das Leben von Falco, in welchem er die Titelrolle spielte, war 2007 ein großer Kinoerfolg. Immer wieder ist er in TV-Serien und Filmen zu sehen und präsentierte 2011 zusammen mit Thomas Stipsits das Kabarettprogramm „Triest“, welches mit dem Österreichischen Kabarettpreis ausgezeichnet wurde. Seine aktuelle Band nennt sich „Familie Lässig“ und erfreut sich zunehmender Popularität.",
+      "image": {
+        "src": "/images/speakers/manuel_rubey.jpg",
+        "alt": "Manuel Rubey"
+      }
+    },
+    {
+      "id": "elisa_von_westtoeast",
+      "name": "Elisa von Westtoeast",
+      "bio": "Elisa Mayr, 25 Jahre, Lehrerin in Niederösterreich und Masterstudentin an der Hauptuniversität Wien. Für mich als Geschichtelehrerin war es ein besonders großes Anliegen, bei diesem Projekt mitzumachen. In der täglichen Interaktion mit meinen Schüler:innen fällt mir mehr und mehr auf, dass der bewusste Umgang mit der Thematik der systematischen Verfolgung und Ermordung von Minderheiten während des Zweiten Weltkriegs an Wichtigkeit zu verlieren scheint.",
+      "image": {
+        "src": "/images/speakers/elisa_von_westtoeast.jpg",
+        "alt": "Elisa von Westtoeast"
+      }
+    },
+    {
+      "id": "coshiva",
+      "name": "Coshiva",
+      "bio": "Coshiva ist österreichische Musikerin. Dabei betätigt sie sich im Gesang, als Songwriterin sowie als Pianistin im Bereich Pop-Folk.",
+      "image": {
+        "src": "/images/speakers/coshiva.jpg",
+        "alt": "Coshiva"
+      }
+    },
+    {
+      "id": "bianca_olivia",
+      "name": "Bianca-Olivia",
+      "bio": "Die gebürtige Kärntnerin Bianca-Olivia Konarzewski ist Moderatorin, Content Creator und Model. Sie selbst bezeichnet sich als 'Vegan-Influencerin' und lässt ihre Community via Instagram an ihrem bunten Alltag teilhaben. Ihr Fokus liegt dabei auf den Themen cruelty-free Fashion&Beauty sowie pflanzenbasierte Ernährung.",
+      "image": {
+        "src": "/images/speakers/bianca_olivia.jpg",
+        "alt": "Bianca-Olivia"
+      }
+    },
+    {
+      "id": "alexander_van_der_bellen",
+      "name": "Alexander Van der Bellen",
+      "bio": "Alexander Van der Bellen ist Bundespräsident der Republik Österreich. Ihm ist es besonders wichtig, jungen Menschen zu vermitteln, dass wir alle Verantwortung dafür tragen, wie sich unsere Gesellschaft entwickelt. Dieses Podcast-Projekt unterstützt er daher aus Überzeugung.",
+      "image": {
+        "src": "/images/speakers/alexander_van_der_bellen.jpg",
+        "alt": "Alexander Van der Bellen"
+      }
+    },
+    {
+      "id": "mari_lang",
+      "name": "Mari Lang",
+      "bio": "Mari Lang ist eine österreichische Moderatorin und Journalistin. Seit Ende 2020 betreibt Mari Lang den Podcast „Frauenfragen“",
+      "image": {
+        "src": "/images/speakers/mari_lang.jpg",
+        "alt": "Mari Lang"
+      }
+    },
+    {
+      "id": "hanna_herbst",
+      "name": "Hanna Herbst",
+      "bio": "Hanna Herbst ist eine deutsch-österreichische Journalistin und Autorin, grantelt wie eine Österreicherin und ist pünktlich wie eine Deutsche, baut auf ihrem Balkon Salat und Kartoffeln an, und hätte gerne eine Schafherde. Bis es so weit ist, die Kartoffeln ausgewildert und die Schafe eingekauft werden können, arbeitet und lebt sie in Köln, schreibt in den Pausen Literatur, sitzt ab und an in der Jury des Wiener Frauenpreises oder gibt Lesungen und Workshops, hält Vorträge und die Moral hoch.",
+      "image": {
+        "src": "/images/speakers/hanna_herbst.jpg",
+        "alt": "Hanna Herbst"
+      }
+    },
+    {
+      "id": "denise_steiner",
+      "name": "Denise Steiner",
+      "bio": "Laut Familie und Freunden ist Denise Steiner die deutscheste Österreicherin, die es gibt. Bereits im zarten Alter von sechs Jahren hat die Wahlwienerin beschlossen, die Welt mit ihrem geschriebenen Wort zu beglücken. Nach 10 Jahren in der österreichischen Hauptstadt, arbeitet sie jetzt als COO in einer Digitalagentur, lässt ihren Gedanken auf Instagram und in ihrem Newsletter freien Lauf und hat das Resting Bitch Face perfektioniert.",
+      "image": {
+        "src": "/images/speakers/denise_steiner.jpg",
+        "alt": "Denise Steiner"
+      }
+    },
+    {
+      "id": "lisa_lena_tritscher",
+      "name": "Lisa Lena Tritscher",
+      "bio": "Lisa-Lena Tritscher ist in Leoben geboren und wuchs in der Steiermark auf. Sie lebt und arbeitet in Wien, wo sie als Schauspielerin und Model tätig ist.",
+      "image": {
+        "src": "/images/speakers/lisa_lena_tritscher.jpg",
+        "alt": "Lisa Lena Tritscher"
+      }
+    },
+    {
+      "id": "bernhard_murg",
+      "name": "Bernhard Murg",
+      "bio": "Bernhard Murg ist Kabarettist, Schauspieler und Regisseur. Er ist dem deutschsprachigen Publikum nicht nur durch seine zahlreichen Film- und Fernsehproduktionen, sondern auch als langjähriges Ensemblemitglied des Kabarett Simpl bekannt. Seit Oktober 2014 ist er an der Seite von Michael Niavarani in Die unglaubliche Tragödie von Richard III im Globe Wien zu sehen.",
+      "image": {
+        "src": "/images/speakers/bernhard_murg.jpg",
+        "alt": "Bernhard Murg"
+      }
+    },
+    {
+      "id": "thomas_jarmer",
+      "name": "Thomas Jarmer",
+      "bio": "Seit den späten 90ern singt und schreibt Thomas Jarmer für die Indie-Folk-Kapelle Garish. Vielfach preisgekrönt und -nominiert und seit mehr als 20 Jahren unterwegs, hat sich Jarmer daneben auch ein Standbein als Filmmusik-Komponist aufgestellt – beispielgebend für Elisabeth Scharang’s „Vielleicht in einem anderen Leben“ oder für TV-Dokumentationen – bevorzugt mit dem Piano.",
+      "image": {
+        "src": "/images/speakers/thomas_jarmer.jpg",
+        "alt": "Thomas Jarmer"
+      }
+    },
+    {
+      "id": "christoph_feurstein",
+      "name": "Christoph Feurstein",
+      "bio": "Seit dreiundzwanzig Jahren beschäftigt sich Feurstein in zahlreichen Reportagen und Dokumentationen mit den Abgründen der menschlichen Seele. Im Jahr 2006 geht sein Exclusiv Interview mit Natascha Kampusch um die Welt. Das Mädchen war im Alter von zehn Jahren von Wolfgang Priklopil entführt worden und konnte sich nach achteinhalb Jahren Gefangenschaft befreien. Seit dem Tag ihres Verschwindens hat Feurstein über den Fall berichtet. Für seine Arbeit wurde er mehrfach ausgezeichnet.",
+      "image": {
+        "src": "/images/speakers/christoph_feurstein.jpeg",
+        "alt": "Christoph Feurstein"
+      }
+    },
+    {
+      "id": "raphaela_fuchs",
+      "name": "Raphaela Fuchs",
+      "bio": "Seit Ende November 2015 bloggt Raphaela als „heartblood“ über Beauty, Fashion, Travel und Lifestyle. Mit ihrem Blog möchte sie inspirieren, informieren und junge Menschen für Fashion und Streetstyle begeistern. Ihre persönlichen Beiträge handeln über Situationen und Hürden aus dem Alltag, womit sich ihre Community identifizieren kann. Raphaela's Content ist durch viel Humor, Charme und Sarkasmus gekennzeichnet.",
+      "image": {
+        "src": "/images/speakers/raphaela_fuchs.jpg",
+        "alt": "Raphaela Fuchs"
+      }
+    },
+    {
+      "id": "alexander_payer",
+      "name": "Alexander Payer",
+      "bio": "Alexander Payer ist Profisnowboarder aus Kärnten. Neben seiner Tätigkeit als Sportler hatte Alexander das Glück sowohl eine AHS wie auch ein Studium abschließen zu dürfen und durch meinen Sport die Welt zu bereisen.",
+      "image": {
+        "src": "/images/speakers/alexander_payer.jpg",
+        "alt": "Alexander Payer"
+      }
+    },
+    {
+      "id": "thomas_stipsits",
+      "name": "Thomas Stipsits",
+      "bio": "Thomas Stipsits ist ein österreichischer Kabarettist und Schauspieler sowie Bestseller- und Krimi-Autor.",
+      "image": {
+        "src": "/images/speakers/thomas_stipsits.jpg",
+        "alt": "Thomas Stipsits"
+      }
+    },
+    {
+      "id": "fanny_stapf",
+      "name": "Fanny Stapf",
+      "bio": "Fanny Stapf ist eine österreichische Reporterin und Moderatorin. Seit März 2019 ist Fanny Stapf als Reporterin und Redakteurin bei ORF 1 tätig. Während der COVID-19-Pandemie in Österreich moderierte Fanny Stapf die „ORF 1-Freistunde“.",
+      "image": {
+        "src": "/images/speakers/fanny_stapf.jpg",
+        "alt": "Fanny Stapf"
+      }
+    },
+    {
+      "id": "vivien_von_vanillaholica",
+      "name": "Vivien von vivien_von_vanillaholica",
+      "bio": "Vanillaholica ist ein persönlicher Lifestyle-Blog aus Wien. Abgesehen von Fair-Fashion schreibt Vivien auch über Themen wie Green-Lifestyle und Slow-Fashion.",
+      "image": {
+        "src": "/images/speakers/vivien_von_vanillaholica.jpg",
+        "alt": "Vivien von vivien_von_vanillaholica"
+      }
+    },
+    {
+      "id": "rafi_veni",
+      "name": "rafi_veni",
+      "bio": "Rafael „Veni“ Eisler ist seit über 10 Jahren als Content Creator mit Fokus auf dem Gaming Bereich auf allen gängigen Social Media Plattformen unterwegs. Über die Jahre hat er sich mehrere Standbeine wie seine Agentur Kartell/07, Charity Royale oder auch als eSports Caster/Host für Red Bull und A1 aufgebaut.",
+      "image": {
+        "src": "/images/speakers/rafi_veni.jpg",
+        "alt": "rafi_veni"
+      }
+    },
+    {
+      "id": "lilly_von_stillesbunt",
+      "name": "Lilly von Stillesbunt",
+      "bio": "Lilly Koslowsky führt seit 10 Jahren das Interior & Lifestyle Blog stillesbunt.at. stilles bunt steht für „The Nordic Family Home“. Inspiration rund um Interior, Lifestyle und das einfache Familienleben.",
+      "image": {
+        "src": "/images/speakers/lilly_von_stillesbunt.jpg",
+        "alt": "Lilly von Stillesbunt"
+      }
+    },
+    {
+      "id": "austrofred",
+      "name": "Austrofred",
+      "bio": "Austrofred ist, in Anspielung auf Freddie Mercury, der Künstlername von Franz Adrian Wenzl, aufgewachsen in Oberösterreich Bei seinen Auftritten singt er Austropop-Texte zu Queen-Melodien. Wenzl ist auch Leadsänger der Indie-Rock-Band Kreisky und Schriftsteller.",
+      "image": {
+        "src": "/images/speakers/austrofred.jpg",
+        "alt": "Austrofred"
+      }
+    },
+    {
+      "id": "martina_ebm",
+      "name": "Martina Ebm",
+      "bio": "Martina Ebm ist österreichische Schauspielerin. Ihr Debüt an der Josefstadt feierte Martine Ebm als Kathi in „Der Zerrissene“. Darüber hinaus ist Martina Ebm auch in diversen Kino- und TV-Rollen zu sehen.",
+      "image": {
+        "src": "/images/speakers/martina_ebm.jpg",
+        "alt": "Martina Ebm"
+      }
+    },
+    {
+      "id": "sabrina_von_be_rose_go_green",
+      "name": "Sabrina von Be Rosa Go Green",
+      "bio": "BeRosaGoGreen ist ein veganer Lifestyle- und Outdoor-Blog von Sabrina Majnek",
+      "image": {
+        "src": "/images/speakers/sabrina_von_be_rose_go_green.jpeg",
+        "alt": "Sabrina von Be Rosa Go Green"
+      }
+    },
+    {
+      "id": "mara_von_stadtmärchen",
+      "name": "Mara von Stadtmärchen",
+      "bio": "Mara betreibt als Stadtmärchen einen österreichischen Foodblog. Ihr Ziel ist, Modernes und Traditionelles auf kulinarisch ansprechende Art und Weise zu verbinden.",
+      "image": {
+        "src": "/images/speakers/mara_von_stadtmärchen.jpg",
+        "alt": "Mara von Stadtmärchen"
+      }
+    },
+    {
+      "id": "danielle_spera",
+      "name": "Danielle Spera",
+      "bio": "Danielle Spera ist eine österreichische Kommunikationswissenschafterin und Journalistin. Seit 2010 und noch bis Ende Juni 2022 ist sie Direktorin des Jüdischen Museums Wien.",
+      "image": {
+        "src": "/images/speakers/danielle_spera.jpg",
+        "alt": "Danielle Spera"
+      }
+    },
+    {
+      "id": "thees_uhlmann",
+      "name": "Thees Uhlmann",
+      "bio": "Thees Uhlmann ist Musiker, Autor und betreibt mit seinen beiden Freunden Marcus Wiebusch und Reimer Bustorff die Plattenfirma “Grand Hotel van Cleef“. Für 2022 wünscht er sich mehr Freiheit und härtere Strafen.",
+      "image": {
+        "src": "/images/speakers/thees_uhlmann.jpg",
+        "alt": "Thees Uhlmann"
+      }
+    },
+    {
+      "id": "jan_von_1000things",
+      "name": "Jan von 1000things",
+      "bio": "Jan Pöltner, gebürtiger Oberösterreicher, mittlerweile leidenschaftlicher Wiener, ist Gründer der Inspirationsplattform 1000things. Der 29 jährige kommentiert auf Social Media -  neben seiner beruflichen Tätigkeit - gerne das politische Geschehen und setzt sich gegen Rechtsextremismus und Verschwörungstheorien ein.",
+      "image": {
+        "src": "/images/speakers/jan_von_1000things.jpg",
+        "alt": "Jan von 1000things"
+      }
+    },
+    {
+      "id": "anna_schneider",
+      "name": "Anna Schneider",
+      "bio": "Anna Schneider ist seit Juni 2021 Chefreporterin bei WELT. Davor war sie seit 2019 Redaktorin im Berliner Büro der NZZ, wofür sie ihre Lieblingsstadt Wien und damit auch die von ihr mitgegründete Medien- und Rechercheplattform Addendum verlassen hat.",
+      "image": {
+        "src": "/images/speakers/anna_schneider.jpg",
+        "alt": "Anna Schneider"
+      }
+    },
+    {
+      "id": "robert_reinagl",
+      "name": "Robert Reinagl",
+      "bio": "Robert Reinagl lebt in Wien. Seit über 20 Jahren im Ensemble des Burgtheaters. Reinagl ist oft in Funk und Fernsehen zu sehen und zu hören und ist ein leidenschaftlicher Vor-Leser.",
+      "image": {
+        "src": "/images/speakers/robert_reinagl.jpg",
+        "alt": "Robert Reinagl"
+      }
+    },
+    {
+      "id": "nadine_cobbina",
+      "name": "Nadine Cobbina",
+      "bio": "Nadine Cobbina ist über ihre Kunstfigur “die Zuckerlkettenfrau” als Clubkulturkolumnistin, Veranstalterin, Performerin und DJ bekannt. Sie ist freie Autorin, Sprecherin und Moderatorin, Mitbegründerin der IG Clubkultur, Aktivistin für Bodypositivity und Nachhaltigkeit und engagiert sich im Bereich Awareness im Club. Unter anderem hat sie für Radio FM4, der Standard, Radio Orange oder das Pornfilmfestival Vienna gearbeitet und beim  Kultursommer Wien für elektronische und experimentelle Musik kuratiert.",
+      "image": {
+        "src": "/images/speakers/nadine_cobbina.jpg",
+        "alt": "Nadine Cobbina"
+      }
+    },
+    {
+      "id": "yasmo",
+      "name": "Yasmo",
+      "bio": "Yasmo ist eine Wiener Rapperin und Dichterin. Seit 2007 steht sie auf Bühnen, 2009 gewann sie als erste Österreicherin den Titel der deutschsprachigen Meisterin U20 im Poetry Slam, 2013 gewann sie als erste Frau die österreichische Meisterschaft.",
+      "image": {
+        "src": "/images/speakers/yasmo.jpg",
+        "alt": "Yasmo"
+      }
+    },
+    {
+      "id": "dirk_von_lowtzow",
+      "name": "Dirk von Lowtzow",
+      "bio": "Dirk von Lowtzow ist seit 1993 Sänger und Songwriter der Band Tocotronic, deren 13. Album „Nie wieder Krieg“ Ende Januar erscheint. 2019 brachte er sein autobiographisch gefärbtes Buch „Aus dem Dachsbau“ heraus, das in die Bestseller-Liste einstieg.",
+      "image": {
+        "src": "/images/speakers/dirk_von_lowtzow.jpg",
+        "alt": "Dirk von Lowtzow"
+      }
+    },
+    {
+      "id": "angelika_niedetzky",
+      "name": "Angelika Niedetzky",
+      "bio": "Angelika Niedetzky ist eine österreichische Schauspielerin, Kabarettistin und Moderatorin. 2002 gewann Niedetzky noch während ihrer Ausbildung an der Wiener Schauspielschule Krauss mit der Kabarettgruppe Bakschisch den Grazer Kleinkunstpanther. Es folgten Auftritte im gesamten deutschsprachigen Raum. Gleichzeitig war Niedetzky Mitglied der Frauenkabarettgruppe.",
+      "image": {
+        "src": "/images/speakers/angelika_niedetzky.jpg",
+        "alt": "Angelika Niedetzky"
+      }
+    },
+    {
+      "id": "armin_wolf",
+      "name": "Armin Wolf",
+      "bio": "Der gebürtige Innsbrucker (Jahrgang 1966) hat seine ORF-Laufbahn nach der Matura als freier Mitarbeiter im Landesstudio Tirol begonnen. Seither war er Politik-Redakteur in Radio und Fernsehen, USA-Korrespondent (1991/92), Redaktionsleiter und Moderator. Für seine Arbeit, v.a. für seine Live-Interviews, wurde Wolf vielfach ausgezeichnet.",
+      "image": {
+        "src": "/images/speakers/armin_wolf.jpg",
+        "alt": "Armin Wolf"
+      }
+    },
+    {
+      "id": "christl_clear",
+      "name": "Christl Clear",
+      "bio": "Christl Clear ist Autorin, Influencerin und Kolumnistin, die auf ihren Plattformen gerne mal über die guten und nicht so guten Dinge des Lebens. Ihr ausgeprägter Gerechtigkeitssinn lässt sich nämlich gut mit ihrer Liebe zu Lifestyle-Themen vereinbaren.",
+      "image": {
+        "src": "/images/speakers/christl_clear.jpg",
+        "alt": "Christl Clear"
+      }
+    },
+    {
+      "id": "mirijam_unger",
+      "name": "Mirijam Unger",
+      "bio": "Mirjam Unger ist Filmemacherin. Als Autorin und Regiseeurin arbeitet sie für Kino und Fernsehen. Sie ist zudem Gründungsmitglied von Radio FM4 und Moderatorin. Derzeit entwickelt sie als Regisseurin die neue TV ORF Serie „Biester“ und dreht 2022 einen neuen ORF ZDF Landkrimi Tirol.",
+      "image": {
+        "src": "/images/speakers/mirijam_unger.jpg",
+        "alt": "Mirijam Unger"
+      }
+    },
+    {
+      "id": "hannah",
+      "name": "Hannah",
+      "bio": "Sie ist nicht nur Influencerin, sondern Yoga Teacher, Artist und Feministin zugleich. Gerade Themen, wie Selbstliebe und Selbstreflexion spielen bei ihr eine große Rolle, wodurch sie tagtäglich viele Menschen auf der ganzen Welt berührt. Neben ihrem Hauptchannel @namastehannah hat sie auch einen eigenen Kunst Channel, wo sie ihre Werke präsentiert und teilt.",
+      "image": {
+        "src": "/images/speakers/hannah.jpg",
+        "alt": "Hannah"
+      }
+    }
+  ]
+}
